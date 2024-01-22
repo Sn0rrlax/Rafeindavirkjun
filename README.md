@@ -57,16 +57,18 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 
 <details>
 <summary> Vefsíður sem hýsa Spice libraries </summary>
-* [YouSpice](https://www.youspice.com/links-to-spice-libraries/)
-* [LT Wiki](https://ltwiki.org/?title=Components_Library_and_Circuits)
-* [Cordell](https://www.cordellaudio.com/book/spice_models.shtml)
-* [KiCad Spice Library](https://github.com/kicad-spice-library/KiCad-Spice-Library)
-* [Analog.com](https://www.analog.com/en/design-center/simulation-models/spice-models.html)
-* [Vishay](https://www.vishay.com/en/how/design-support-tools/)
-* [MicroChip Spice Models](https://www.microchip.com/en-us/document-listing?docCategory=boarddesignfiles/spicemodels)
-* [MicroChip Spice Models 2](https://www.microsemi.com/document-portal/cat_view/56661-internal-documents/5674-spice-datasheets)
-* [Little Fuse](https://www.littelfuse.com/technical-resources/spice-models.aspx)
-* [Kyocera](https://www.kyocera-avx.com/design-tools/spice-models/)
+  
+- [YouSpice](https://www.youspice.com/links-to-spice-libraries/)
+- [LT Wiki](https://ltwiki.org/?title=Components_Library_and_Circuits)
+- [Cordell](https://www.cordellaudio.com/book/spice_models.shtml)
+- [KiCad Spice Library](https://github.com/kicad-spice-library/KiCad-Spice-Library)
+- [Analog.com](https://www.analog.com/en/design-center/simulation-models/spice-models.html)
+- [Vishay](https://www.vishay.com/en/how/design-support-tools/)
+- [MicroChip Spice Models](https://www.microchip.com/en-us/document-listing?docCategory=boarddesignfiles/spicemodels)
+- [MicroChip Spice Models 2](https://www.microsemi.com/document-portal/cat_view/56661-internal-documents/5674-spice-datasheets)
+- [Little Fuse](https://www.littelfuse.com/technical-resources/spice-models.aspx)
+- [Kyocera](https://www.kyocera-avx.com/design-tools/spice-models/)
+  
 </details>
 
 
@@ -77,6 +79,7 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 
 <details>
 <summary> Simulation forrit </summary>
+  
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [Livespice](http://www.livespice.org/)
@@ -86,11 +89,13 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 * [Autocad Electrical](https://www.autodesk.com/products/autocad/included-toolsets/autocad-electrical)
 * [ANSYS](https://www.ansys.com/products/electronics)
 * [PowerWorld](https://www.powerworld.com/products/simulator/overview)
+  
 </details>
 
 ## PCB
 <details>
   <summary> PCB-hönnunar forrit </summary>
+  
 - [Altium Designer](https://www.altium.com/)
 - [Autodesk EAGLE](https://www.autodesk.com/products/eagle/overview)
 - [KiCad EDA](https://kicad-pcb.org/)
@@ -101,6 +106,7 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 - [Zuken CR-8000](https://www.zuken.com/en/product/cr-8000/)
 - [EasyEDA](https://easyeda.com/)
 - [CircuitMaker](https://circuitmaker.com/)
+  
 </details>
 
 # Nám
